@@ -4,7 +4,7 @@
 Set up TestNG, Selenium , Gradle to automate Orange Hrm application's modules under Positive and Negative test cases. 
 Configure and write test scripts from test case scenarios. 
 Running gradle command lines and generate report using Allure.
-Website : https://www.digitalunite.com/practice-webform-learners](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+Website : https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
 ## Project Testing scenarios
 1. Login as a admin to https://opensource-demo.orangehrmlive.com/
