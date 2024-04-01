@@ -1,4 +1,4 @@
-# Orange Hrm Website Form Automation using TestNG and Selenium
+# Orange Hrm Website Automation using TestNG and Selenium
 
 ## Project Intro
 Set up TestNG, Selenium , Gradle to automate Orange Hrm application's modules under Positive and Negative test cases. 
